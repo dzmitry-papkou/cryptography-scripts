@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Description: Hill cipher decryption script
 
 import numpy as np

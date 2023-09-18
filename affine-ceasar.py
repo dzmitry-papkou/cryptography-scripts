@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Description: Affine Ceasar cipher decryption script
 
 # Alphabet where:
