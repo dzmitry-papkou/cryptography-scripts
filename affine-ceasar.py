@@ -12,6 +12,7 @@
 
 abc = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
+
 # The function returns a dictionary with the indexes of the plaintext and ciphertext
 def indexFinder(ciphertext, plaintext, lenght):
     
