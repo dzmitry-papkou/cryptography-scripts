@@ -4,6 +4,7 @@
 
 import numpy as np
 
+
 # the function returns the modular inverse of a number
 def modInverse(a, mod):
     for i in range(1, mod):
